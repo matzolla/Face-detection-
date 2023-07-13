@@ -3,6 +3,7 @@
 
 Author: Nken ALLASSAN
 Project title: EYE GLASS DETECTION SYSTEM"""
+
 "Date: 15/02/2021"
 
 import cv2
@@ -35,12 +36,3 @@ cv2.destroyAllWindows()
 
 
 
-#url='http://10.123.50.24:8080/shot.jpg'
-#while True:
-    #grab the frame and resize it to have a frame width of 400
-    #frame=vs.read()
-#    imageRes=urllib.request.urlopen(url)
-#    imageNp=np.array(bytearray(imageRes.read()),dtype=np.uint8)
-#    img=cv2.imdecode(imageNp,-1)
-#    frame=imutils.resize(img,width=400)
-#    (h,w)=frame.shape[:2]
