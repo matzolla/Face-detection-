@@ -6,5 +6,5 @@ This code aim to present my first ever real time  eyeglass detection system to t
 Author: Nken ALLASSAN
 Project title: EYE GLASS DETECTION SYSTEM
 
-Date: 15/02/2021"
+Date: 15/02/2021
 ```
