@@ -1,11 +1,3 @@
-"""this code aim to present my first ever real time  eyeglass detection system to the entire AIMS network
-  I don't know the out-come but i will do it
-
-Author: Nken ALLASSAN
-Project title: EYE GLASS DETECTION SYSTEM"""
-
-"Date: 15/02/2021"
-
 import cv2
 # now i create a new cam object
 cap=cv2.VideoCapture(0)
