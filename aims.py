@@ -1,3 +1,4 @@
+# import librairies
 import cv2
 # now i create a new cam object
 cap=cv2.VideoCapture(0)
