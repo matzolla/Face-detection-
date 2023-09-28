@@ -21,6 +21,8 @@ while True:
     cv2.imshow('Stark',image)
     if cv2.waitKey(1)==ord('q'):
         break
+
+# realising the videos
 cap.release()
 cv2.destroyAllWindows()
 
