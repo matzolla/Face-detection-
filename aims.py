@@ -17,6 +17,7 @@ while True:
 # for every face draw a rectangle
     for x,y, width,height in glasses:
         cv2.rectangle(image,(x,y),(x+width,y+height),color=(255,0,0),thickness=1)
+        
 # cv2.putText(image,'Face',(10,500),font,1,(0,0,255),2)
     cv2.imshow('Stark',image)
     if cv2.waitKey(1)==ord('q'):
