@@ -1,6 +1,6 @@
 # import librairies
 import cv2
-# now i create a new cam object
+
 cap=cv2.VideoCapture(0)
 print("well imported.....")
 # we will start by trying the eyeglass HaarCascade classifier
