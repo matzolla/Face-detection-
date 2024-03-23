@@ -2,7 +2,9 @@
 import cv2
 
 cap=cv2.VideoCapture(0)
+
 print("well imported.....")
+
 # we will start by trying the eyeglass HaarCascade classifier
 "initializing the face classifier"
 
