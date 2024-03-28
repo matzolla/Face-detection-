@@ -11,8 +11,10 @@ print("well imported.....")
 face=cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 while True:
+    
 # read the image from the cam
     _,image=cap.read()
+    
 # now i convert the image into grayscale
     image_gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 # detect all faces in the image
