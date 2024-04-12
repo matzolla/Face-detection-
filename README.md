@@ -15,6 +15,6 @@ Date: 15/02/2021
 ### How to use it
 
 ```python
-# run the aims.py file in your folder
+## run the aims.py file in your folder
 >>> python \my\folder\aims.py
 ```
