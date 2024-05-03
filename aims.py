@@ -5,7 +5,7 @@ cap=cv2.VideoCapture(0)
 
 print("well imported.....")
 
-# we will start by trying the eyeglass HaarCascade classifier
+## we will start by trying the eyeglass HaarCascade classifier
 "initializing the face classifier"
 
 face=cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
