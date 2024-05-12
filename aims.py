@@ -29,6 +29,7 @@ while True:
 
 # realising the videos
 cap.release()
+
 cv2.destroyAllWindows()
 
 
