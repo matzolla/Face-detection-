@@ -12,7 +12,7 @@ Project title: `EYE GLASS DETECTION SYSTEM`
 Date: 15/02/2021
 ```
 
-### How to use it
+## How to use it
 
 ```python
 ## run the aims.py file in your folder
