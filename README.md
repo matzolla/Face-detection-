@@ -9,7 +9,8 @@ Author: `Nken ALLASSAN`
 Project title: `EYE GLASS DETECTION SYSTEM`
 
 ```
-Date: 15/02/2021
+Date:    15/02/2021
+Updated: 26/06/2024
 ```
 
 ## How to use it
