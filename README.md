@@ -7,7 +7,7 @@ Author: `Nken ALLASSAN`
 
 Project title: `EYE GLASS DETECTION SYSTEM`
 
-```
+```python
 Date:    15/02/2021
 Updated: 26/06/2024
 ```
