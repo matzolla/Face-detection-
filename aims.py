@@ -28,6 +28,7 @@ while True:
 # realising the videos
 cap.release()
 
+# destroying all widows
 cv2.destroyAllWindows()
 
 
